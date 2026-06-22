@@ -61,4 +61,4 @@ Analyzes the customer base, segmenting users by occupation, income level, and ag
 
 ## 📄 Full Report
 For a deep dive into the ER Diagrams, Data Flow Diagrams, and step-by-step implementation, please review the complete project report:
-[Download the Adventure Work Cycle Project Report (PDF)](./1Adventure_Work_Cycle_project_Report.pdf)
+[Download the Adventure Work Cycle Project Report (PDF)](1Adventure_Work_Cycle_project_Report.pdf)
