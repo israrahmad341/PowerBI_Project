@@ -45,11 +45,17 @@ The final report is divided into interactive tabs utilizing standard and custom 
 ### 1. Executive Summary
 Provides a high-level overview of overall performance, tracking total orders, revenue, and returns against target KPIs. Features dynamic slicers for date and geographical filtering.
 
+![Executive Summary](images/Dashboard.png)
+
 ### 2. Product Details
 Focuses on individual product performance. Tracks metrics like Adjusted Price, Weekly Profit, and Weekly Return Volume using line charts and KPI indicators.
 
+![Product Details](images/Product_Details.png)
+
 ### 3. Customer Detail
 Analyzes the customer base, segmenting users by occupation, income level, and age. Highlights top customers (e.g., Mr. Maurice Shan) by total orders and revenue.
+
+![Customer Detail](images/Customer_Detail.png)
 
 ---
 
